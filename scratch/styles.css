@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://comicbookhistorians.com/wp-content/uploads/e1aaf807-calvin1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(220, 223, 245);
+    color:brown
+   
+}
+a{
+
+    color:black}
+    h1,h2,h3{text-align: center;}
+    img{border: 5px solid blueviolet ;
+    padding: 5px;
+height: 250px;
+width: 350px;}
+/* margin:auto;
+display:inline-block}
+     */
+        .rizz{
+            font-family: chiller;
+            color:darkred;
+            border: 5px dashed red;
+            font-size: xx-large;
+            font-weight: bolder;
+            background-color:cornsilk;
+        }
+        .rizz:hover{
+            font-size: 450%;
+            color:blueviolet;
+            border: 5px solid royalblue;
+        }
+        li{width: fit-content}
+        li:hover{
+            text-decoration: underline;
+            color: aliceblue;
+            background-color: black;
+
+        }
